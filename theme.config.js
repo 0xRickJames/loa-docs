@@ -1,5 +1,5 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
+  github: 'https://github.com/landsofascension',
   docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
   titleSuffix: ' – LoA',
   logo: (
@@ -72,5 +72,5 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: false,
-  unstable_faviconGlyph: '☀',
+  unstable_faviconGlyph: '🌆',
 }
